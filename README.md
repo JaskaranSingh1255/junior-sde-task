@@ -18,14 +18,14 @@ This is a backend API built using Django REST Framework and PyMongo for the Juni
  5 endpoints to run
 
 
-Create Employee	POST	/employees/
-Get Employee	GET	/employees/<employee_id>/
-Update Employee	PUT	/employees/<employee_id>/
-Delete Employee	DELETE	/employees/<employee_id>/
-List by Department	GET	/employees/?department=Engineering
-Average Salary	GET	/employees/avg-salary/
-Search by Skill	GET	/employees/search/?skill=Python
-Paginated Employees	GET	/employees/paginated/?page=1&size=5
-Search by Skill	GET	/employees/search/?skill=Python
-Paginated Employees	GET	/employees/paginated/?page=1&size=5
+-Create Employee	POST	/employees/
+-Get Employee	GET	/employees/<employee_id>/
+-Update Employee	PUT	/employees/<employee_id>/
+-Delete Employee	DELETE	/employees/<employee_id>/
+-List by Department	GET	/employees/?department=Engineering
+-Average Salary	GET	/employees/avg-salary/
+-Search by Skill	GET	/employees/search/?skill=Python
+-Paginated Employees	GET	/employees/paginated/?page=1&size=5
+-Search by Skill	GET	/employees/search/?skill=Python
+-Paginated Employees	GET	/employees/paginated/?page=1&size=5
     
