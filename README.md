@@ -1,6 +1,4 @@
-# Junior SDE-I Task (Django + PyMongo)
-
-This is a backend API built using Django REST Framework and PyMongo for the Junior SDE-I assignment. It supports basic CRUD operations and bonus features like pagination, skill-based search, and average salary aggregation.
+I Have listed some of the steps below that we can follow to proceed with this project 
 
 1 Tech Stack
 
